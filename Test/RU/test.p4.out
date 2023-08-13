@@ -2,7 +2,7 @@
 очень O
 любим O
 пить O
-чай B-positive
+чай O
 и O
 очень O
 радует O
@@ -66,7 +66,7 @@
 хозяин B-positive
 . O
 
-Пиво B-positive
+Пиво O
 не O
 пробовали O
 - O
@@ -115,7 +115,7 @@
 проводили O
 на O
 второй O
-этаж I-positive
+этаж I-negative
 . O
 
 Теперь O
@@ -157,7 +157,7 @@
 ) O
 ) O
 
-Еда B-negative
+Еда B-positive
 очень O
 вкусная O
 , O
@@ -187,7 +187,7 @@
 предложениях O
 . O
 
-Музыка B-negative
+Музыка B-positive
 в O
 ресторане O
 негромкая O
@@ -266,11 +266,11 @@
 
 В O
 качестве O
-горячего O
+горячего B-positive
 ела O
 филе B-positive
 норвежского O
-лосося B-negative
+лосося I-positive
 с O
 овощами I-positive
 и O
@@ -294,13 +294,13 @@
 заходим O
 поужинать O
 после O
-работы O
+работы I-negative
 с O
 мужем O
 . O
 
 Мятный O
-чай B-positive
+чай O
 в O
 чайнике O
 , O
@@ -336,7 +336,7 @@
 нужно O
 добавлять O
 новые O
-блюда O
+блюда B-positive
 хотя O
 бы O
 раз O
@@ -433,7 +433,7 @@
 , O
 кармашки O
 с O
-грибами O
+грибами I-negative
 и O
 рыбой I-positive
 , O
@@ -448,7 +448,7 @@
 с O
 моцареллой I-negative
 и O
-грибами O
+грибами I-negative
 , O
 угря O
 . O
@@ -469,7 +469,7 @@
 В-третьих O
 , O
 оба O
-блюда O
+блюда B-positive
 подали O
 одновременно O
 , O
@@ -707,10 +707,10 @@
 по-аджарски O
 - O
 много O
-сыра B-neutral
+сыра B-positive
 , O
 мягкое O
-тесто B-neutral
+тесто B-positive
 ... O
 отлично O
 . O
@@ -860,7 +860,7 @@
 и O
 тут O
 бежит O
-официантка B-negative
+официантка B-positive
 со O
 словами O
 " O
@@ -877,7 +877,7 @@
 , O
 рыбу O
 и O
-мясо O
+мясо B-positive
 . O
 
 Как O
@@ -952,7 +952,7 @@
 бы O
 попробовать O
 и O
-блюда O
+блюда B-positive
 уже O
 из O
 нового O
@@ -965,7 +965,7 @@
 этого O
 случая O
 , O
-блюда O
+блюда B-positive
 были O
 вкусные O
 , O
@@ -979,7 +979,7 @@
 сразу O
 ( O
 и O
-салаты O
+салаты B-positive
 , O
 и O
 горячее O
@@ -1066,7 +1066,7 @@
 года O
 . O
 
-Салат B-negative
+Салат B-positive
 Цезарь O
 был O
 так O
@@ -1074,7 +1074,7 @@
 + O
 очень O
 острая O
-пицца O
+пицца B-positive
 из O
 детского O
 меню O
@@ -1083,7 +1083,7 @@
 Порадовал O
 широкий O
 выбор B-positive
-пива O
+пива I-negative
 , O
 прочего O
 алкоголя O
@@ -1135,7 +1135,7 @@
 порции B-positive
 маленькие O
 , O
-мясо O
+мясо B-positive
 жесткое O
 , O
 а O
@@ -1171,8 +1171,8 @@
 Мы O
 отмечали O
 в O
-большом O
-зале B-negative
+большом I-negative
+зале B-positive
 , O
 он O
 был O
@@ -1433,7 +1433,7 @@ bar-а O
 эмоции O
 ! O
 
-Пиво B-positive
+Пиво O
 отличное O
 , O
 может O
@@ -1579,7 +1579,7 @@ bar-а O
 , O
 на O
 этом O
-сервис B-negative
+сервис B-positive
 закончился O
 . O
 
@@ -1599,7 +1599,7 @@ bar-а O
 свадьбу O
 в O
 новом O
-зале B-negative
+зале B-positive
 на O
 Галерной O
 ! O
@@ -1658,7 +1658,7 @@ S O
 место B-positive
 . O
 
-Еда B-negative
+Еда B-positive
 вкусная O
 , O
 необычная O
@@ -1724,7 +1724,7 @@ S O
 
 На O
 второй O
-этаж I-positive
+этаж I-negative
 нам O
 подняться O
 не O
@@ -1770,8 +1770,8 @@ S O
 закуски O
 и O
 основного O
-горячего O
-блюда O
+горячего B-positive
+блюда B-positive
 . O
 
 Для O
@@ -1884,7 +1884,7 @@ S O
 оказалось O
 что O
 сотрудники B-positive
-зала B-neutral
+зала I-negative
 ничего O
 об O
 этой O
@@ -1893,7 +1893,7 @@ S O
 знают O
 . O
 
-Пиво B-positive
+Пиво O
 хорошее O
 , O
 не O
@@ -1969,7 +1969,7 @@ S O
 незнакомый O
 нам O
 в O
-центре B-positive
+центре I-negative
 города O
 ресторан O
 " O
@@ -2005,7 +2005,7 @@ S O
 
 Отдельное O
 спасибо O
-администратору B-negative
+администратору B-positive
 Сергею O
 ! O
 
@@ -2069,7 +2069,7 @@ S O
 табака O
 с O
 овощами I-positive
-гриль O
+гриль I-negative
 и O
 Судака O
 , O
@@ -2077,7 +2077,7 @@ S O
 с O
 соусом I-positive
 под O
-сыром B-positive
+сыром I-positive
 . O
 
 Но O
@@ -2102,7 +2102,7 @@ S O
 компании O
 в O
 хорошем O
-месте O
+месте B-positive
 . O
 
 Искала O
@@ -2200,7 +2200,7 @@ S O
 много O
 лет O
 назад O
-сервис B-negative
+сервис B-positive
 на O
 высоком O
 уровне O
@@ -2311,7 +2311,7 @@ S O
 принесли O
 комплимент B-positive
 от O
-шеф-повара O
+шеф-повара I-positive
 , O
 хотя O
 мой O
@@ -2336,7 +2336,7 @@ S O
 , O
 после O
 чего O
-гребешки B-neutral
+гребешки B-positive
 я O
 ждала O
 еще O
@@ -2359,7 +2359,7 @@ S O
 , O
 стейк B-positive
 из O
-лосося B-negative
+лосося I-positive
 и O
 бефстроганов O
 с O
@@ -2380,7 +2380,7 @@ S O
 Официантка B-negative
 следила O
 за O
-столом O
+столом I-negative
 и O
 вовремя O
 меняла O
@@ -2404,11 +2404,11 @@ S O
 где-то O
 в O
 другом O
-месте O
+месте B-positive
 . O
 
 Но O
-девушка B-negative
+девушка B-positive
 оказалась O
 очень O
 доброй O
@@ -2496,7 +2496,7 @@ S O
 
 Кофе B-positive
 , O
-чай B-positive
+чай O
 с O
 мятой O
 - O
@@ -2527,7 +2527,7 @@ S O
 стейк B-positive
 с O
 овощами I-positive
-гриль O
+гриль I-negative
 . O
 
 Цены O
@@ -2542,7 +2542,7 @@ S O
 При O
 входе O
 встретила O
-девушка B-negative
+девушка B-positive
 ( O
 официант B-positive
 ) O
@@ -2641,16 +2641,16 @@ P O
 многовато O
 . O
 
-Салат B-negative
+Салат B-positive
 с O
 малосольным O
-лососем I-positive
+лососем I-neutral
 , O
 тоже O
 был O
 хорош O
 Из O
-горячего O
+горячего B-positive
 брала O
 Дораду O
 с O
@@ -2678,7 +2678,7 @@ P O
 то O
 , O
 что O
-чай B-positive
+чай O
 не O
 пакетированный O
 в O
@@ -2782,7 +2782,7 @@ P O
 Далее O
 , O
 ждем O
-напитки O
+напитки I-negative
 . O
 
 Когда O
@@ -2790,7 +2790,7 @@ P O
 в O
 ресторан O
 в O
-зале B-negative
+зале B-positive
 никого O
 не O
 было O
@@ -2811,12 +2811,12 @@ P O
 Ждем O
 минут O
 10-15 O
-напиток B-positive
+напиток O
 не O
 несут O
 . O
 
-Вино B-negative
+Вино B-positive
 оказалось O
 очень O
 дорогим O
@@ -2898,7 +2898,7 @@ P O
 раз O
 . O
 
-Пиво B-positive
+Пиво O
 , O
 конечно O
 , O
@@ -2921,11 +2921,11 @@ P O
 чем O
 пить O
 и O
-мясо O
+мясо B-positive
 . O
 
 Заказали O
-шашлыки B-positive
+шашлыки O
 из O
 свинины B-positive
 , O
@@ -3046,7 +3046,7 @@ P O
 сидели O
 в O
 первом O
-зале B-negative
+зале B-positive
 , O
 занавесочки B-positive
 просто O
@@ -3129,7 +3129,7 @@ P O
 кухня B-positive
 . O
 
-Еда B-negative
+Еда B-positive
 вкусная O
 , O
 замечаний O
@@ -3138,7 +3138,7 @@ P O
 
 В O
 основном O
-зале B-negative
+зале B-positive
 не O
 сильно O
 накурено O
@@ -3229,7 +3229,7 @@ P O
 
 Гуляли O
 в O
-центре B-positive
+центре I-negative
 с O
 сестрой O
 , O
@@ -3261,10 +3261,10 @@ P O
 ресторанах O
 ( O
 что O
-рыба O
+рыба B-positive
 , O
 что O
-мясо O
+мясо B-positive
 - O
 всё O
 на O
@@ -3344,11 +3344,11 @@ NAVEX O
 разрешают O
 поставить O
 любую O
-музыку B-negative
+музыку B-positive
 . O
 
 Заказываем O
-блюда O
+блюда B-positive
 , O
 названий O
 не O
@@ -3358,7 +3358,7 @@ NAVEX O
 - O
 что-то O
 из O
-курицы O
+курицы I-positive
 , O
 муж O
 захотел O
@@ -3393,13 +3393,13 @@ NAVEX O
 ! O
 
 Тушеное O
-мясо O
+мясо B-positive
 - O
 огромный O
 выбор B-positive
 , O
 и O
-салаты O
+салаты B-positive
 с O
 овощами I-positive
 , O
@@ -3486,13 +3486,13 @@ NAVEX O
 все O
 вовремя O
 , O
-напитки O
+напитки I-negative
 - O
 практически O
 моментально O
 ! O
 милая O
-девушка B-negative
+девушка B-positive
 Анна O
 нам O
 все O
@@ -3655,7 +3655,7 @@ NAVEX O
 При O
 этом O
 в O
-зале B-negative
+зале B-positive
 не O
 было O
 накурено O
@@ -3684,10 +3684,10 @@ NAVEX O
 и O
 так O
 как O
-бармен B-negative
+бармен B-positive
 один-то O
 и O
-напитки O
+напитки I-negative
 тоже O
 приносят O
 по O
@@ -4303,7 +4303,7 @@ myfant.ru O
 . O
 
 К O
-сервису B-neutral
+сервису B-positive
 действительно O
 никаких O
 нареканий O
@@ -4381,7 +4381,7 @@ myfant.ru O
 собрал O
 нам O
 оставшиеся O
-блюда O
+блюда B-positive
 с O
 собой O
 , O
@@ -4393,7 +4393,7 @@ myfant.ru O
 в O
 другой O
 конец O
-зала B-neutral
+зала I-negative
 . O
 
 Так O
@@ -4450,7 +4450,7 @@ myfant.ru O
 супа O
 из O
 меню O
-официантка B-negative
+официантка B-positive
 сказала O
 , O
 что O
@@ -4609,7 +4609,7 @@ myfant.ru O
 в O
 качестве O
 большого O
-блюда O
+блюда B-positive
 с O
 фруктами O
 . O
@@ -4618,7 +4618,7 @@ myfant.ru O
 на O
 высоте O
 : O
-салаты O
+салаты B-positive
 необычны O
 , O
 вкусны O
@@ -4650,7 +4650,7 @@ myfant.ru O
 размеров O
 , O
 после O
-салата O
+салата I-negative
 и O
 кусочка O
 хачапури B-positive
@@ -4789,7 +4789,7 @@ myfant.ru O
 большие O
 и O
 вкусные O
-блюда O
+блюда B-positive
 . O
 
 Место B-positive
@@ -4841,7 +4841,7 @@ myfant.ru O
 Есть O
 зал B-positive
 для O
-некурящих O
+некурящих I-neutral
 , O
 что O
 несомненно O
@@ -4988,14 +4988,14 @@ myfant.ru O
 любезен O
 . O
 
-Еда B-negative
+Еда B-positive
 была O
 очень O
 вкусная O
 и O
 разнообразная O
 , O
-сервис B-negative
+сервис B-positive
 на O
 высшем O
 уровне O
@@ -5072,7 +5072,7 @@ myfant.ru O
 были O
 удивлены O
 смене O
-интерьера B-negative
+интерьера B-positive
 . O
 
 Было O
@@ -5269,12 +5269,12 @@ myfant.ru O
 приятно O
 удивились O
 , O
-столы B-negative
+столы O
 были O
 не O
 пустые O
 , O
-салаты O
+салаты B-positive
 все O
 вкусные O
 , O
@@ -5412,7 +5412,7 @@ myfant.ru O
 ложке O
 из O
 каждого O
-блюда O
+блюда B-positive
 . O
 
 Заказала O
@@ -5433,7 +5433,7 @@ myfant.ru O
 вежливый O
 ( O
 особенно O
-официантка B-negative
+официантка B-positive
 Анастасия O
 ) O
 , O
@@ -5481,7 +5481,7 @@ myfant.ru O
 но O
 только O
 на O
-ланч B-negative
+ланч I-positive
 . O
 
 Меню B-positive
@@ -5501,7 +5501,7 @@ myfant.ru O
 вкусные O
 хачапури B-positive
 с O
-сыром B-positive
+сыром I-positive
 , O
 вкусный O
 лосось B-positive
@@ -5514,7 +5514,7 @@ myfant.ru O
 ) O
 . O
 
-Десерт B-positive
+Десерт O
 , O
 бизе O
 со O
@@ -5600,7 +5600,7 @@ myfant.ru O
 сели O
 в O
 небольшом O
-зале B-negative
+зале B-positive
 . O
 
 Также O
@@ -5644,7 +5644,7 @@ myfant.ru O
 . O
 
 Приятное O
-музыкальное B-negative
+музыкальное O
 сопровождение I-negative
 . O
 
@@ -5705,7 +5705,7 @@ myfant.ru O
 , O
 посуда B-positive
 и O
-блюда O
+блюда B-positive
 менялись O
 как-будто O
 сами O
@@ -5713,7 +5713,7 @@ myfant.ru O
 . O
 
 Ужасный O
-сервис B-negative
+сервис B-positive
 ! O
 
 Рекомендую O
@@ -5753,7 +5753,7 @@ myfant.ru O
 ресторане O
 . O
 
-Еда B-negative
+Еда B-positive
 была O
 свежая O
 и O
@@ -5788,7 +5788,7 @@ myfant.ru O
 понравился O
 хачапури B-positive
 с O
-сыром B-positive
+сыром I-positive
 . O
 
 Ресторан B-positive
@@ -5866,7 +5866,7 @@ myfant.ru O
 свежевыжатый O
 сок O
 в O
-большом O
+большом I-negative
 стакане O
 + O
 газированную O
@@ -5970,7 +5970,7 @@ Project O
 что O
 , O
 уважаемые O
-посетители B-negative
+посетители B-positive
 , O
 следите O
 , O
@@ -6156,7 +6156,7 @@ S O
 пообщаться O
 , O
 выпить O
-пива O
+пива I-negative
 . O
 
 Вчера O
@@ -6182,7 +6182,7 @@ S O
 тот O
 день O
 горячие B-positive
-блюда O
+блюда B-positive
 из O
 рыбы B-positive
 не O
@@ -6203,7 +6203,7 @@ S O
 . O
 
 Заказанные O
-блюда O
+блюда B-positive
 порадовали O
 и O
 подачей B-positive
@@ -6219,7 +6219,7 @@ S O
 , O
 равиолли O
 с O
-лососем I-positive
+лососем I-neutral
 и O
 баклажаны B-positive
 с O
@@ -6232,7 +6232,7 @@ S O
 
 Очень O
 нравится O
-блюда O
+блюда B-positive
 на O
 гриле I-positive
 . O
@@ -6274,7 +6274,7 @@ S O
 не O
 выдержали O
 бы O
-блюда O
+блюда B-positive
 из O
 традиционных O
 Питерских O
@@ -6382,7 +6382,7 @@ S O
 , O
 подошла O
 милая O
-девушка B-negative
+девушка B-positive
 , O
 поздоровалась O
 , O
