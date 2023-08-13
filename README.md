@@ -25,6 +25,3 @@ This guide will help you run the project smoothly.
 
 🔔 **Note**: Please replace `<q_no>` with the appropriate question number (1, 2, 3, or 4).
 
-## 📄 Project Report
-
-For a detailed understanding and insights, view the [Project Report](https://docs.google.com/document/d/1ym4fxcd_xtGmxAKecOaRT4kyYrTj0fmYaAJSEHGi55E/edit?usp=sharing).
