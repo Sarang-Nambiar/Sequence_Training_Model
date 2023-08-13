@@ -9,5 +9,4 @@ Steps to run:
    ii)  python3.10 EvalScript/evalResult.py Data/ES/dev.out Data/ES/dev.p<q_no>.out
 
 4) Link to the Report: https://docs.google.com/document/d/1ym4fxcd_xtGmxAKecOaRT4kyYrTj0fmYaAJSEHGi55E/edit?usp=sharing
-5) 
-   
+
