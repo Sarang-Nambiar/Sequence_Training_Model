@@ -1,21 +1,26 @@
-# ML_Project
+# 🚀 ML_Project
 
-Follow the steps below to run the project:
+This guide will help you run the project smoothly.
 
-1. Open the notebook.
-2. Click "Run all".
-3. In the terminal, type:
+## 🔧 Steps to Run
 
-   - For RU data:
-     bash
-     python3.10 EvalScript/evalResult.py Data/RU/dev.out Data/RU/dev.p<q_no>.out
-     
+1. **Initialization**:
+    - 📘 Open the notebook.
 
-   - For ES data:
-     bash
-     python3.10 EvalScript/evalResult.py Data/ES/dev.out Data/ES/dev.p<q_no>.out
-     
+2. **Execution**:
+    - ▶️ Click `Run all`.
 
-Note: Replace <q_no> with the question number (1, 2, 3, or 4)
+3. **Evaluation**:
+    - Open your terminal and execute the following commands:
 
-Link to the Report: https://docs.google.com/document/d/1ym4fxcd_xtGmxAKecOaRT4kyYrTj0fmYaAJSEHGi55E/edit?usp=sharing
+      - **For RU data**:
+        ```bash
+        python3.10 EvalScript/evalResult.py Data/RU/dev.out Data/RU/dev.p<q_no>.out
+        ```
+
+      - **For ES data**:
+        ```bash
+        python3.10 EvalScript/evalResult.py Data/ES/dev.out Data/ES/dev.p<q_no>.out
+        ```
+
+🔔 **Note**: Please replace `<q_no>` with the appropriate question number (1, 2, 3, or 4).
