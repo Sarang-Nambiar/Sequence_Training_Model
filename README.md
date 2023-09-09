@@ -1,4 +1,4 @@
-# 🚀 ML_Project
+# 🚀 Sequence_Training_Model
 
 This guide will help you run the project smoothly.
 
